@@ -162,4 +162,4 @@ Goals:
 
 _References_
 
-- Neural Networks Lab -- includes notebook(s) and data [zip](published_notes/notes/neural-networks.zip) [tgz](published_notes/notes/neural-networks.tgz)
+- Neural Networks Lab -- includes notebook(s) and data [zip](publiished_notes/notes/neural.zip) [tgz](published_notes/notes/neural.tgz)
